@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+#app {
+    background-color: cadetblue;
+}
+
+#juegos {
+    background-color: rgb(29, 227, 115);
+}
+
+.linea {
+    height: 6px;
+    background-color: #a11bd6;
+    width:400px;
+    margin: 8px auto;
+}
+  
+  
+  
+#myCarousel {
+    background-color:lightcoral;
+}
+
+#myCarousel img
+
+{
+
+  height: 300px;
+
+  margin-top: 35px;
+
+}
+
+
+
+.carousel-inner p{
+  margin-top: 15px;
+  color : rgb(180, 18, 118);
+  font-size: 20px;
+}
